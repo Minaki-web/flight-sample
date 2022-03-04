@@ -1,0 +1,1 @@
+<p>index.view.php is rendered.</p>
